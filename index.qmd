@@ -1,0 +1,23 @@
+---
+title: "Leah R Kaplan"
+image: "images/kaplan.png"
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      href: https://twitter.com/kap_leah
+    - icon: github
+      href: https://github.com/lkaplan25
+    - icon: linkedin
+      href: https://www.linkedin.com/in/leah-kaplan
+    - text: "Contact"
+      href: "mailto:leahkaplan@gwu.edu"
+---
+
+## Hi, I'm Leah.
+
+*(pronounced lay-uh\...yes, like the Star Wars character)*
+
+I want to understand how we can better leverage emerging transportation technologies for the benefit of, rather than detriment to, society.
+
+I am a PhD Candidate in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at the George Washington University and a Fellow with GWU's [Co-Design of Trustworthy AI Systems NSF Research Traineeship](https://dtais.seas.gwu.edu/). My current research focuses on the potential societal impacts of automated vehicles, with an emphasis on equity and labor.

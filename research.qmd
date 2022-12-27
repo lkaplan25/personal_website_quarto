@@ -1,0 +1,80 @@
+---
+title: "Research"
+description: |
+  I study how to leverage emerging transportation technologies for the benefit of, rather than detriment to, society.
+toc: true
+---
+
+## Publications in Peer Reviewed Journals
+
+1.  **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2021). Designing Participatory Technology Assessments: A Reflexive Method for Advancing the Public Role in Science Policy Decision-making. Technological Forecasting and Social Change, 171, 120974. https://doi.org/10.1016/j.techfore.2021.120974
+2.  Nelson, J. P., **Kaplan, L.**, & Tomblin, D. (2020). Assessing solar geoengineering research funders: Insights from two US public deliberations. The Anthropocene Review, 2053019620964845. https://doi.org/10.1177/2053019620964845
+3.  Hernandez, E., MacNamee, S. E., **Kaplan, L. R.**, Lance, K., Garcia-Verdugo, H. D., Farhadi, D. S., Deer, C., Lee, S. W., & Oland, L. A. (2020). The astrocyte network in the ventral nerve cord neuropil of the Drosophila third-instar larva. Journal of Comparative Neurology, 528(10), 1683--1703. https://doi.org/10.1002/cne.24852
+
+<br>
+
+## Working Papers & Papers Under Review
+
+1.  **Kaplan, L.** & Helveston, J.P., "Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S." *Under review*.
+
+## Book Chapters
+
+1.  **Kaplan, L.**, Rupprecht, S., Grosso, M., Thomopoulos, N., Backhaus, W., Raposo, M. A., ... & Franco, D. (2023). Ensuring Strong Public Support for Automation in the Planning Process: From Engagement to Co-creation. *In Automated Road Transportation Symposium* (pp. 167-183). Springer, Cham. https://link.springer.com/book/10.1007/978-3-031-11112-9#page=169
+
+## Reports, Articles for Non-Academic Audiences, and Other Publications
+
+1.  Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. Issues in Science and Technology. https://issues.org/endless-frontier-act-and-public-values/
+
+2.  **Kaplan, L.**, Nelson, J., Tomblin, D., Farooque, M., Lloyd, J., Neff, M., Bedsted, B., and Sarewitz, D., (2019). Exploring Democratic Governance of Geoengineering Research Through Public and Stakeholder Engagement. Consortium for Science, Policy & Outcomes. https://cspo.org/wp-content/uploads/2019/10/SRM_book_EPUB.pdf
+
+3.  **Kaplan, L.** (2019). Background materials for "Our Driverless Futures: Community Forums on Automated Mobility." Consortium for Science, Policy & Outcomes. https://cspo.org/wp-content/uploads/2019/04/Background-Materials-for-Our-Driverless-Futures.pdf
+
+4.  **Kaplan, L.** (2019). Give STAA a Chance. As We Now Think. Consortium for Science, Policy & Outcomes. https://cspo.org/give-staa-a-chance/
+
+5.  Farooque, M., **Kaplan, L.**, Lloyd, J., and Quach, K. (2019). Boundary Practitioners Workshop Report for the Earthrise Alliance. Consortium for Science, Policy & Outcomes. https://earthrisealliance.org/s/FinalBoundarySpanningWorkshopReport021519.pdf
+
+<br>
+
+## Selected Presentations
+
+2022 \| **Kaplan, L.** & Helveston, J.P., Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S. Industry Studies Association (Oral)
+
+2021 \| **Kaplan, L.**, Benefits for Whom? Considering Equity as a Design Goal for Autonomous Vehicle Development, Society for Philosophy and Technology Conference (Oral, Virtual)
+
+2021 \| Brown, R., **Kaplan, L.**, Isaac, L., & Lanigan, T., Opportunities and Challenges for Testing Collaboration. Vermont AV-Xchange. (Oral, Virtual)
+
+2019 \| **Kaplan, L.**, Mahmud Farooque, Kimberly Quach, and Jason Lloyd, Boundary Spanning at the Science Policy Interface: Challenges and Opportunities, Dec. 2019; American Geophysical Union Annual Conference (eLightning)
+
+2019 \| **Kaplan, L.**, John Nelson, Our Driverless Futures -- Informing Autonomous Vehicle Design and Deployment through Public Deliberation. Oct. 2019. Phoenix Mobile and Emerging Tech Festival
+
+2019 \| Sarewitz, D., **Leah Kaplan** and Mahmud Farooque, How can engaging public deliberations build bridges across the S&T enterprise?, June. 2019. National Science and Technology Council "Building Bridges Across the S&T Enterprise" Conference
+
+2019 \| **Kaplan, L.**, Engaging Stakeholders in Future Change. Jun. 2019. The Foresight Sandbox -- Workshop on Strategic Foresight
+
+2019 \| **Kaplan, L.**, and David Tomblin, Why Public Engagement with Science and Technology. Mar. 2019. Workshop with American Association for the Advancement of Science (AAAS) Fellows
+
+2018 \| **Kaplan, L.**, Hassan A. Vafai, and Kevin E. Lansey. Sowing the seeds of understanding and interest: An example of university-sponsored incubation and collaboration for science diplomacy. Nov. 2018. Science Policy Symposium, Science and Education Policy Association
+
+## Fellowships & Awards
+
+### Fellowships & Scholarships
+
+-   2021 \| Designing Trustworthy AI Systems NSF NRT Fellowship
+
+-   2020 \| National Science Foundation Graduate Research Fellow
+
+-   2017 \| Chapman Scholar -- awarded to 1 UA engineering student, department nominated and committee selected
+
+-   2014 \| Flinn Scholar -- merit based scholarship awarded to top 20 high school seniors in Arizona, valued at more than \$115,000
+
+### Awards
+
+-   2018 \| Freeman Medal -- awarded to 2 graduating seniors (out of 6,000 graduates) from the University of Arizona
+
+-   2018 \| Outstanding Senior in Chemical Engineering, 2018 (out of 80 undergraduates)
+
+-   2018 \| 1st Place -- Society of Women Engineers Undergraduate Rapid-Fire Research Presentation Competition
+
+-   2018 \| 2nd Place -- Lockheed Martin Ethics in Engineering Case Competition
+
+-   2016 \| The University of Arizona Honors College Outstanding Sophomore of the Year
